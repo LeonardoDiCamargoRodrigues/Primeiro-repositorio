@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="pt-br">
    <head>
-   	   <meta charset="UTC-8">
-   	   <title>Barbearia Alura</title>
+         <meta charset="UTC-8">
+         <title>Barbearia Alura</title>
+         <link rel="stylesheet" href="style.css"
 
          <style>
-             p {
-
-                 text-align: center
-             }
+             
          </style>
    </head>
 
@@ -22,3 +20,17 @@
        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
    </body>
 </html>
+.
+.
+.
+body {
+     background: #CCCCCC
+ }
+
+p {
+    text-align: center;
+ }
+
+ em strong {
+    color: #FF0000;
+ }
