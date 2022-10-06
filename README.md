@@ -31,7 +31,7 @@
              <li class="itens">*Profissionais qualificados</li>
           </ul>
 
-          <img src="beneficios.jpj" class="imagembeneficios">
+          <img src="beneficios.jpg" class="imagembeneficios">
       </div>
    </body>
 </html>
@@ -48,11 +48,11 @@ body {
 
 .principal{
    background: #CCCCCC;
-   padding: 30%;
+   padding: 5%;
 }
 
-.tililo-principal {
-   padding-left: 20%;
+.titulo-principal {
+   padding-left: 1%;
 }
 
 .titulo-centralizado {
@@ -78,6 +78,10 @@ em strong {
 .beneficios {
    background: #FFFFFF;
    padding: 20px;
+}
+
+h2 {
+    text-align: center;
 }
 
 ul {
